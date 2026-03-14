@@ -99,7 +99,7 @@ This project demonstrates:
 
 ## Authors
 
-Group 20
+Raahima Usman, Rahimah Siddiqi, Ayesha Mirza
 
 ---
 
